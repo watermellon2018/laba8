@@ -1,0 +1,33 @@
+Count of figures: 1
+Group {
+Circle {
+CorX: 161
+CorY: 95
+AB: 320
+Color: 0 255 0
+}
+Circle {
+CorX: 208
+CorY: 158
+AB: 60
+Color: 0 255 0
+}
+Circle {
+CorX: 362
+CorY: 160
+AB: 60
+Color: 0 255 0
+}
+Circle {
+CorX: 290
+CorY: 255
+AB: 40
+Color: 0 255 0
+}
+Circle {
+CorX: 285
+CorY: 331
+AB: 60
+Color: 0 255 0
+}
+}

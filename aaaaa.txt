@@ -1,0 +1,13 @@
+Count of figures: 2
+Circle {
+CorX: 186
+CorY: 284
+AB: 40
+Color: 0 0 255
+}
+Circle {
+CorX: 308
+CorY: 204
+AB: 120
+Color: 0 0 255
+}
